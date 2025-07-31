@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sahil Shirale</h1>
+<h3 align="center">Aspiring QA Engineer (SDET)</h3>
 
-<!--
-**sahi1705/sahi1705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning Full Stack Quality Engineering (Manual + Automation Testing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about Java, Selenium, Cypress, JavaScript, API Testing, JMeter, MySQL
+
+📫 How to reach me: sahilshirale324@gmail.com
+
+
+---
+
+### 💼 Technical Skills
+
+- 🧪 Manual Testing | Regression | Smoke | Sanity | API Testing
+- 💻 Automation: **Selenium**, **Cypress**, **TestNG**, **JMeter**, **Burp Suite**
+- 💡 Programming: **Java**, **JavaScript**, **HTML**, **CSS**
+- 🧰 Tools: **Git**, **GitHub**, **Postman**, **JIRA**, **VS Code**, **Maven**
+- 📚 Frameworks: **Page Object Model (POM)** | **Cucumber** |
+
+---
+
+
+### 📄 Resume & Portfolio
+
+🔗 [My Resume](https://drive.google.com/file/d/1-QZGgsFeTayxeH_VfWMeBfx7hbrphyw-/view?usp=sharing)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sahil-shirale/)  
+🔗 [GitHub Projects](https://github.com/sahi1705)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahi1705&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahi1705&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+
+
+---
+
+⭐ **Thank you for visiting my profile! Feel free to explore my repositories and connect with me.**
+
+
+
