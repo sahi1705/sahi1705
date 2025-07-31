@@ -27,7 +27,7 @@
 
 🔗 [My Resume](https://drive.google.com/file/d/1-QZGgsFeTayxeH_VfWMeBfx7hbrphyw-/view?usp=sharing)  
 🔗 [LinkedIn](https://www.linkedin.com/in/sahil-shirale/)  
-🔗 [GitHub Projects](https://github.com/sahi1705)
+🔗 [GitHub Projects](https://github.com/sahi1705/SeleniumEcommerceProject/tree/master)
 
 ---
 
