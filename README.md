@@ -3,7 +3,7 @@
 
 ---
 
-🌱 I’m currently learning Full Stack Quality Engineering (Manual + Automation Testing)
+🌱 I’m QA Engineer skilled in (Manual + Automation Testing)
 
 💬 Ask me about Java, Selenium, Cypress, JavaScript, API Testing, JMeter, MySQL
 
