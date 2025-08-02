@@ -5,7 +5,7 @@
 
 ---
 
-🌱 I’m QA Engineer skilled in (Manual + Automation Testing)
+🌱 I’m currently learning API Testing .
 
 💬 Ask me about Java, Selenium, Cypress, JavaScript, API Testing, JMeter, MySQL
 
