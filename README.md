@@ -1,3 +1,5 @@
+![AS_logo](https://github.com/user-attachments/assets/24765cb6-74a3-4348-ba9e-9648bde61a26)
+
 <h1 align="center">Hi 👋, I'm Sahil Shirale</h1>
 <h3 align="center">Aspiring QA Engineer (SDET)</h3>
 
